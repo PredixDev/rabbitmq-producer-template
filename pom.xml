@@ -5,7 +5,7 @@
 
 	<groupId>com.ge.predix.solsvc</groupId>
 	<artifactId>rabbitmq-producer-template</artifactId>
-	<version>1.0.9</version>
+	<version>1.0.15</version>
 
 	<properties>
 		<maven-failsafe-plugin.version>2.12</maven-failsafe-plugin.version>
@@ -15,9 +15,6 @@
 		<java.version>1.8</java.version>
 		<maven-compiler-plugin.version>2.5.1</maven-compiler-plugin.version>
 		<maven-failsafe-plugin.version>2.17</maven-failsafe-plugin.version>
-		<ext-model.version>2.0.7</ext-model.version>
-		<ext-interface.version>2.0.7</ext-interface.version>
-		<ext-util.version>2.0.7</ext-util.version>
 	</properties>
 
 

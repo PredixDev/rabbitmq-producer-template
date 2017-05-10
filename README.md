@@ -4,13 +4,15 @@
 <a href="http://predixdev.github.io/rabbitmq-producer-template" target="_blank">
 	<img height="50px" width="100px" src="images/pages.jpg" alt="view github pages">
 </a>
+
 RabbitMQ Producer Template
 =====================
-##Follow the tutorial 
+
+## Follow the tutorial 
 [Microservice Templates: RabbitMQ Producer SDK](https://predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1779&tag=1609&journey=RabbitMQ&resources=1552,1779,1554) 
 
 
-##Using this project
+## Using this project
 This project is a utility project intended to be included as a dependency.  To add as a dependency, add this to your maven pom.xml
 
 	<dependency>
@@ -19,7 +21,7 @@ This project is a utility project intended to be included as a dependency.  To a
 		<version>${rabbitmq-producer-version-here}</version>
 	</dependency>
 
-##How to define properties for this project
+## How to define properties for this project
 
 In your microservice project that depends on this utility.
 
@@ -32,7 +34,7 @@ In your microservice project that depends on this utility.
 		- Follow the pattern in src/test/resources/application.properties
 
 
-##How to build this project
+## How to build this project
 The test cases assume that there is a Rabbit MQ Server installed on localhost.
 
 	1) mvn clean install

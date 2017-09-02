@@ -7,7 +7,6 @@
 
 RabbitMQ Producer Template
 =====================
-
 ## Follow the tutorial 
 [Microservice Templates: RabbitMQ Producer SDK](https://predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1779&tag=1609&journey=RabbitMQ&resources=1552,1779,1554) 
 

@@ -54,4 +54,4 @@ The test cases assume that there is a Rabbit MQ Server installed on localhost.
 
 		mvn clean install -Dserver=<rabbitmqhost> -Dport=<rabbitmq port> -Dmainq=<queue name> -Derrorq=<error queue name>
 
-[![Analytics](https://ga-beacon.appspot.com/UA-82773213-1/rabbitmq-producer-template/readme?pixel)](https://github.com/PredixDev)
+[![Analytics](https://predix-beacon.appspot.com/UA-82773213-1/rabbitmq-producer-template/readme?pixel)](https://github.com/PredixDev)
